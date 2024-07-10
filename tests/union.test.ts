@@ -3,7 +3,7 @@ describe("union", () => {
     let sample: number | string | boolean = "Kahfi";
     console.info(sample);
 
-    sample = 100;
+    sample = 1000;
     console.info(sample);
 
     sample = true;
